@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-blue: #0A2540;
+  --color-brand-light: #F8F9FA;
+  --color-accent: #D4AF37; /* A subtle gold for luxury feel */
+}
+
+/* Base resets for a clean e-commerce look */
+body {
+  background-color: #ffffff;
+  color: #333333;
+  font-family: system-ui, -apple-system, sans-serif;
+  margin: 0;
+  padding: 0;
+}
